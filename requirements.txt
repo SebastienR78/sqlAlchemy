@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+streamlit
+numpy
+matplotlib
+seaborn
+Logging
+Loguru
